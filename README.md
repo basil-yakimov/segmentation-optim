@@ -1,0 +1,1 @@
+Data and code producing results and figures for the paper "Parameter Optimization for Robust Urban Tree Crown Delineation: Enhancing Accuracy in Raster-Based Segmentation" submitted to journal "Forests".
